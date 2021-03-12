@@ -1,2 +1,2 @@
-# instagram-id
+# instagramid
 - go fuck your self .
